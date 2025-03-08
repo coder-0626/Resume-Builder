@@ -1,0 +1,196 @@
+/* body{
+  background-color: red;
+} */
+#cv-form{
+  /* display: none; */
+}
+#cv-template {
+   display: none; 
+}
+
+.star{
+  padding-top: -3%;
+}
+.myimg{
+  /* border: 1px solid red; */
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+.background{
+background-color: rgb(221, 201, 165);
+}
+.temp_button
+{
+  position: relative;
+  left:400px;
+  top:50px;
+}
+.temp_button p{
+  margin-bottom: 10px;
+
+}
+.red
+{
+  height: 40px;
+  text-align: center;
+padding-bottom: 30px;
+padding-top:20px;
+
+  background: #b8b894;
+  position: relative;
+  left:-50px;
+ color:white;
+  
+}
+.blue
+{
+  height: 40px;
+  text-align: center;
+
+  color:white;
+  padding-bottom: 30px;
+  padding-top:20px;
+  position: relative;
+  left:-40px;
+color:white;
+  background: lightblue;
+}
+.green
+{
+
+  position: relative;
+  left:-30px;
+  padding:20px;
+ color:white;
+ height: 40px;
+  text-align: center;
+
+  padding-bottom:30px;
+  background: green;
+}
+.yellow
+{
+  color:white;
+  position: relative;
+  left:-20px;
+  height: 40px;
+  text-align: center;
+  padding:20px;
+  padding-bottom:30px;
+  background: yellow;
+
+}
+.pink
+{
+  height: 40px;
+  text-align: center;
+
+  
+  color:white;
+  position: relative;
+  left:-10px;
+  padding-bottom: 30px;
+  padding-top:20px;
+  background: pink;
+
+}
+
+
+button{
+  background-color: rgb(165, 221, 221);
+  border: none;
+  padding: 5px 20px;
+
+
+}
+#print
+{
+  position: relative;
+  top:80px;
+}
+body{
+  background-color: white;
+  border-color: black;
+}
+
+.text-center{
+  padding-bottom: 40px;
+}
+
+
+.container2{
+  font-size: large;
+  padding: 10px;
+  background-color: gainsboro;
+  margin: 2%;
+}
+.container1{
+  font-size: large;
+  padding: 10px;
+  /* background-color: gainsboro; */
+  margin: 2%;
+}
+
+.card-body{
+  background-color: whitesmoke;
+  border-color: black;
+}
+
+.col-md-4{
+  /* background-color: rgb(231, 206, 206); */
+}
+
+.class{
+  font-size: larger;
+  padding-bottom: 10px;
+}
+
+.card-header background{
+  background-color: black;
+}
+
+.ms-5{
+  text-align: left;
+}
+
+.lang{
+  text-align: center;
+  font-size: larger;
+  font-weight: 470;
+}
+
+.sk{
+  text-align: center;
+  font-size: larger;
+  font-weight: 470;
+}
+
+.pro{
+  font-size: large;
+  font-weight: 450;
+  text-align: center;
+  margin-top: -5%;
+  margin-bottom: 0%;
+
+}
+
+.ltce{
+  text-align: center;
+  margin-top: -2%;
+  padding-bottom: 2%;
+  font-weight: 300;
+  background-color: rgb(191, 245, 245);
+}
+
+.resu{
+  text-align: center;
+  padding-bottom: 2%;
+  padding-top: 1%;
+  margin-bottom: 0%;
+  background-color: rgb(191, 245, 245);
+
+
+}
+
